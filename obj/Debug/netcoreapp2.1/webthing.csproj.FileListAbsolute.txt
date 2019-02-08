@@ -1,0 +1,14 @@
+/home/palbrech/Projects/webthing/bin/Debug/netcoreapp2.1/webthing.deps.json
+/home/palbrech/Projects/webthing/bin/Debug/netcoreapp2.1/webthing.runtimeconfig.json
+/home/palbrech/Projects/webthing/bin/Debug/netcoreapp2.1/webthing.runtimeconfig.dev.json
+/home/palbrech/Projects/webthing/bin/Debug/netcoreapp2.1/webthing.dll
+/home/palbrech/Projects/webthing/bin/Debug/netcoreapp2.1/webthing.pdb
+/home/palbrech/Projects/webthing/obj/Debug/netcoreapp2.1/webthing.csprojAssemblyReference.cache
+/home/palbrech/Projects/webthing/obj/Debug/netcoreapp2.1/webthing.csproj.CoreCompileInputs.cache
+/home/palbrech/Projects/webthing/obj/Debug/netcoreapp2.1/webthing.RazorAssemblyInfo.cache
+/home/palbrech/Projects/webthing/obj/Debug/netcoreapp2.1/webthing.RazorAssemblyInfo.cs
+/home/palbrech/Projects/webthing/obj/Debug/netcoreapp2.1/webthing.AssemblyInfoInputs.cache
+/home/palbrech/Projects/webthing/obj/Debug/netcoreapp2.1/webthing.AssemblyInfo.cs
+/home/palbrech/Projects/webthing/obj/Debug/netcoreapp2.1/webthing.RazorTargetAssemblyInfo.cache
+/home/palbrech/Projects/webthing/obj/Debug/netcoreapp2.1/webthing.dll
+/home/palbrech/Projects/webthing/obj/Debug/netcoreapp2.1/webthing.pdb
